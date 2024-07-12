@@ -58,6 +58,18 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
 
+author:
+  name   : "Brendan Inglis"
+  avatar : "/assets/images/bndcmppropic.jpg"
+  bio    : ""
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/binglis33"
+    - label: "bandcamp"
+      icon: "fa-brands fa-bandcamp"
+      url: "https://brendaninglis.bandcamp.com/"
+
 footer:
   links:
     - label: "Instagram"
