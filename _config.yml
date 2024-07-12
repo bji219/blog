@@ -96,7 +96,9 @@ defaults:
       layout: single
       author_profile: false
       header:
-        image: /assets/images/image-filename.jpg
+        overlay_color: "#000"
+        overlay_filter: "0.5"
+        overlay_image: /assets/images/splash-1.jpg
 
 category_archive:
   type: liquid
