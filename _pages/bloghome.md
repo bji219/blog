@@ -7,18 +7,16 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/splash-1.jpg
-  actions:
-    - label: "hi"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: ""
 excerpt: "blog excerpt goes here"
 intro: 
-  - excerpt: 'There but for the grace of God go I.'
+  - excerpt: 'glob'
 feature_row:
   - image_path: assets/images/splash-3.jpg
     alt: "placeholder image 1"
     title: "post 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "https://github.com/bji219/blog/WeMovePoo/"
   - image_path: /assets/images/splash-4.jpg
     image_caption: ""
     alt: "placeholder image 2"
