@@ -16,7 +16,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Urgent: Help Required"
     excerpt: "No good email address goes unpunished."
-    url: "https://github.com/bji219/blog/blog/WMP/"
+    url: "https://bji219.github.io/blog/WMP/"
     btn_label: "Read On"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash-4.jpg
