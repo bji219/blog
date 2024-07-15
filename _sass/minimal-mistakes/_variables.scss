@@ -29,9 +29,9 @@ $bodoni: "Libre Baskerville", "Bodoni MT", serif !default;
 $calisto: "Libre Baskerville", "Calisto MT", serif !default;
 $garamond: "Libre Baskerville", Garamond, serif !default;
 
-$global-font-family: $serif !default; // changing to serif from sans-serif for libre baskerville
-$header-font-family: $serif !default; // changing to serif from sans-serif for libre baskerville
-$caption-font-family: $serif !default;
+$global-font-family: "Libre Baskerville", $serif !default; // changing to serif from sans-serif for libre baskerville
+$header-font-family: "Libre Baskerville", $serif !default; // changing to serif from sans-serif for libre baskerville
+$caption-font-family: "Libre Baskerville", $serif !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
